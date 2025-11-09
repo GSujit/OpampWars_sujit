@@ -3,6 +3,7 @@ Two Stage Miller
 Used current mirror for biasing(NMOS current mirror)
 Power = 500uW
 Bandwidth = 1.12MHz
-transisitors= 8
+transisitors= 8(Min complexity)
 Bias Current = 100u
+
 
